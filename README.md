@@ -1,2 +1,7 @@
-# trabalho_formularios-PWeb
-Pesquisa e trabalho sobre formulários para a matéria de Padrões Web
+# Trabalho - Formulário - Padrões Web
+
+### Integrantes do grupo:
+- Ana Constância
+- Alexander Ribeiro
+- Diogo Schwartz
+- Lucas Rodrigues
